@@ -25,11 +25,9 @@ A comprehensive digital transformation project for an educational academy, desig
 
 ### 🧾 Backlog
 - Detailed **User Stories** with **Acceptance Criteria** aligned with Agile methodology.
-
 ---
-
 ## ⚙️ Tools Used
-Lucidchart · Draw.io · Microsoft Word · Jira · Miro
+Lucidchart · Draw.io · Azure 
 
 ---
 
