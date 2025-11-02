@@ -1,12 +1,12 @@
-# 🎓 Digital Learning Platform
+#  Digital Learning Platform
 A comprehensive digital transformation project for an educational academy, designed to convert manual learning and administrative processes into an integrated online platform.
 ---
-## 👩‍💼 Role
+##  Role
 **Business Analyst**
 ---
-## 🧩 Deliverables
+##  Deliverables
 
-### 📘 Documentation
+###  Documentation
 - **BRD (Business Requirements Document)** – Including scope, requirements, business rules, constraints, and risks.  
 - **Glossary & Stakeholder Register**  
 - **Capability Table (Gap Analysis)**  
@@ -15,7 +15,7 @@ A comprehensive digital transformation project for an educational academy, desig
 - **Goal-Oriented Feature List & Feature Model**  
 - **Roles & Responsibilities Matrix**
 
-### 🧠 Diagrams
+###  Diagrams
 - Context Diagram  
 - Use Case Diagram  
 - Activity Diagram  
@@ -23,12 +23,12 @@ A comprehensive digital transformation project for an educational academy, desig
 - State Machine Diagram  
 - Entity Relationship Diagram (ERD)
 
-### 🧾 Backlog
+###  Backlog
 - Detailed **User Stories** with **Acceptance Criteria** aligned with Agile methodology.
 ---
-## ⚙️ Tools Used
+##  Tools Used
 Lucidchart · Draw.io · Azure 
 
 ---
 
-📁 *This repository showcases a full business analysis case study for a Digital Learning Platform, including all documentation and diagrams used throughout the project lifecycle.*
+ *This repository showcases a full business analysis case study for a Digital Learning Platform, including all documentation and diagrams used throughout the project lifecycle.*
